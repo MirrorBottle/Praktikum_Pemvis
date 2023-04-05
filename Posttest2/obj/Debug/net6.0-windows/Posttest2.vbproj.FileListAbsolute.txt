@@ -1,0 +1,17 @@
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\bin\Debug\net6.0-windows\Posttest2.exe
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\bin\Debug\net6.0-windows\Posttest2.deps.json
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\bin\Debug\net6.0-windows\Posttest2.runtimeconfig.json
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\bin\Debug\net6.0-windows\Posttest2.dll
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\bin\Debug\net6.0-windows\Posttest2.pdb
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\Posttest2.vbproj.AssemblyReference.cache
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\Posttest2.Form1.resources
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\Posttest2.vbproj.GenerateResource.cache
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\Posttest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\Posttest2.AssemblyInfoInputs.cache
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\Posttest2.AssemblyInfo.vb
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\Posttest2.vbproj.CoreCompileInputs.cache
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\Posttest2.dll
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\refint\Posttest2.dll
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\Posttest2.pdb
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\Posttest2.genruntimeconfig.cache
+C:\Users\setia\OneDrive\Dokumen\Kuliah\S4\Praktikum\Visual\Posttest\Posttest2\obj\Debug\net6.0-windows\ref\Posttest2.dll
